@@ -3,7 +3,7 @@ import type { NavItem } from "@/types/nav";
 
 export const SITE_INFO = {
   name: USER.displayName,
-  url: process.env.APP_URL || "https://chanhdai.com",
+  url: process.env.APP_URL || "https://sinu.com",
   ogImage: USER.ogImage,
   description: USER.bio,
   keywords: USER.keywords,
@@ -30,7 +30,7 @@ export const SOURCE_CODE_GITHUB_REPO = "sinukumar/portfolio";
 export const SOURCE_CODE_GITHUB_URL = "https://github.com/sinukumar/portfolio";
 
 export const UTM_PARAMS = {
-  utm_source: "chanhdai.com",
+  utm_source: "sinu.com",
   utm_medium: "referral",
   utm_campaign: "portfolio",
 };

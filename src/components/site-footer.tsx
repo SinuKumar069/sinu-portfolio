@@ -1,4 +1,4 @@
-import { SITE_INFO } from "@/config/site";
+import { SITE_INFO, GITHUB_USERNAME } from "@/config/site";
 import { SOCIAL_LINKS } from "@/features/portfolio/data/social-links";
 
 export function SiteFooter() {
@@ -9,7 +9,7 @@ export function SiteFooter() {
           Built by{" "}
           <a
             className="link"
-            href={SITE_INFO.url}
+            href={`https://github.com/${GITHUB_USERNAME}`}
             target="_blank"
             rel="noreferrer"
           >
