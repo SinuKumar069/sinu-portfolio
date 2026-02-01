@@ -18,7 +18,7 @@ export function SiteFooter() {
           . The source code is available on{" "}
           <a
             className="link"
-            href="https://github.com/sinukumar/portfolio"
+            href={`https://github.com/${GITHUB_USERNAME}/sinu-portfolio`}
             target="_blank"
             rel="noreferrer"
           >
