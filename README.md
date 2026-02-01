@@ -1,18 +1,8 @@
-# [chanhdai.com](https://chanhdai.com)
+# [sinu.com](https://sinu.com)
 
-A minimal, pixel-perfect dev portfolio, component registry, and blog to showcase my work as a Design Engineer.
+A minimal, pixel-perfect dev portfolio, component registry, and blog.
 
-Check out the live site: [chanhdai.com](https://chanhdai.com)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://assets.chanhdai.com/images/screenshot-desktop-dark.webp?t=1763226447">
-  <source media="(prefers-color-scheme: light)" srcset="https://assets.chanhdai.com/images/screenshot-desktop-light.webp?t=1763226447">
-  <img src="https://assets.chanhdai.com/images/screenshot-desktop-light.webp?t=1763226447" alt="Screenshot">
-</picture>
-
-## GitAds Sponsored
-
-[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=ncdai/chanhdai.com@github)](https://gitads.dev/v1/ad-track?source=ncdai/chanhdai.com@github)
+Check out the live site: [sinu.com](https://sinu.com)
 
 ## Overview
 
@@ -58,11 +48,9 @@ Please refer to the [Development Guide](./DEVELOPMENT.md) for more details.
 
 Licensed under the [MIT license](./LICENSE).
 
-You're free to use my code! Just make sure to <ins>remove all my personal information</ins> before publishing your website. It's awesome to see my code being useful to someone!
-
 ## Star History
 
-[![Star History](https://starchart.cc/ncdai/chanhdai.com.svg?variant=adaptive&line=%23d37f2c)](https://starchart.cc/ncdai/chanhdai.com)
+[![Star History](https://starchart.cc/SinuKumar069/sinu-portfolio.svg?variant=adaptive&line=%23d37f2c)](https://starchart.cc/SinuKumar069/sinu-portfolio)
 
 ## Acknowledgments
 

@@ -25,9 +25,9 @@ export const MAIN_NAV: NavItem[] = [
   },
 ];
 
-export const GITHUB_USERNAME = "sinukumar";
-export const SOURCE_CODE_GITHUB_REPO = "sinukumar/portfolio";
-export const SOURCE_CODE_GITHUB_URL = "https://github.com/sinukumar/portfolio";
+export const GITHUB_USERNAME = "SinuKumar069";
+export const SOURCE_CODE_GITHUB_REPO = "SinuKumar069/sinu-portfolio";
+export const SOURCE_CODE_GITHUB_URL = "https://github.com/SinuKumar069/sinu-portfolio";
 
 export const UTM_PARAMS = {
   utm_source: "sinu.com",

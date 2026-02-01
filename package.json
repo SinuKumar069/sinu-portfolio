@@ -5,20 +5,20 @@
   "homepage": "https://sinu.com",
   "license": "MIT",
   "author": {
-    "name": "Nguyen Chanh Dai",
-    "email": "dai@chanhdai.com",
-    "url": "https://github.com/ncdai"
+    "name": "Sinu Kumar",
+    "email": "sinu.kumar@example.com",
+    "url": "https://github.com/SinuKumar069"
   },
   "contributors": [
     {
-      "name": "Nguyen Chanh Dai",
-      "email": "dai@chanhdai.com",
-      "url": "https://github.com/ncdai"
+      "name": "Sinu Kumar",
+      "email": "sinu.kumar@example.com",
+      "url": "https://github.com/SinuKumar069"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ncdai/sinu.com.git"
+    "url": "git+https://github.com/SinuKumar069/sinu-portfolio.git"
   },
   "scripts": {
     "dev": "next dev -p 3000",
