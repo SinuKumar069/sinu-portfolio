@@ -7,7 +7,7 @@ export const PROJECTS: Project[] = [
     period: {
       start: "01.2025",
     },
-    link: "https://projectmanager-kappa.vercel.app",
+    link: "https://vercel.com/sinu-kumars-projects",
     skills: [
       "React",
       "Next.js",
